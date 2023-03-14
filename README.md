@@ -20,6 +20,8 @@
 
 #### To run this program in the background use nohup to have no hangups and the program will run in the background
 
+The commands for this are specific to linux machines.
+
 Run this command `nohup python3 check_my_ip.py &` while in the cloned directory.
 The "&" will tell this program to run in the background.
 
